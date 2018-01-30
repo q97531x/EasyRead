@@ -1,0 +1,4 @@
+#Mon Jan 29 18:36:53 CST 2018
+base.0=E\:\\android\\project\\EasyRead\\mscV5PlusDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\android\\project\\EasyRead\\mscV5PlusDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
