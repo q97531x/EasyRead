@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\android\project\EasyRead\mscV5PlusDemo\libs"><file name="armeabi/libmsc.so" path="E:\android\project\EasyRead\mscV5PlusDemo\libs\armeabi\libmsc.so"/><file name="Msc.jar" path="E:\android\project\EasyRead\mscV5PlusDemo\libs\Msc.jar"/></source></dataSet><dataSet config="debug"><source path="E:\android\project\EasyRead\mscV5PlusDemo\src\debug\jniLibs"/></dataSet></merger>
